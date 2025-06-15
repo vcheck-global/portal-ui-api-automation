@@ -1,0 +1,6 @@
+LOGIN_ENDPOINT = "/auth/login"
+USER_ME_ENDPOINT = "/users/me/"
+LOGIN_WITH_ACCOUNT_ENDPOINT = "/auth/login-with-account"
+PROJECTS_ENDPOINT = "/projects/"
+REFRESH_TOKEN_ENDPOINT = "/auth/token/refresh"
+PROJECTS_ENDPOINT = "/projects/"
